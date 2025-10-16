@@ -25,7 +25,7 @@ This workshop edition will explore topics related to:
 
 Authors are invited to submit original, unpublished papers that are not being considered in any other venue.
 
-We accept three types of submissions, as described below. The page limits include references.
+We accept three types of submissions, as described below. All paper limits are based on the [format required by FSE 2026](https://conf.researchr.org/track/fse-2026/fse-2026-how-to-submit) for Companion Proceedings. The page limits include references.
 
 - Technical Research/Experience Papers (long papers, up to 10 pages): This track is defined for papers that report innovative research or significant experiences that are closely aligned with the themes of the workshop.
 
