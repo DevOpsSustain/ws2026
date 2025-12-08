@@ -35,7 +35,7 @@ We accept three types of submissions, as described below. All paper limits are b
 
 The accepted papers will be included in the FSE companion proceedings to be published in the ACM digital library. As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including [ACM’s new Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects). At least one author of each accepted paper must register and present the paper in person at the workshop to have the paper appear in the FSE companion proceedings.
 
-Papers should follow the ACM format required by FSE 2026. Please note that the workshop papers must use the double-column format required by the Companion proceedings. Papers should be submitted via the [HotCRP submission site](https://hotcrp.com).
+Papers should follow the ACM format required by FSE 2026. Please note that the workshop papers must use the double-column format required by the Companion proceedings. Papers should be submitted via the [HotCRP submission site](https://devopssustain26.hotcrp.com/).
 
 In order to ensure the fairness of the reviewing process, the workshop will employ a double-anonymous review process where reviewers (except PC chairs) do not know the identity of authors, and authors do not know the identity of reviewers. The papers submitted must not reveal the authors’ identities in any way. Please find more details about the double-anonymous review process here.
 
