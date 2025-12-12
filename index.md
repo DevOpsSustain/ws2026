@@ -56,6 +56,15 @@ Newfoundland St. John’s, Canada lizhi.liao@mun.ca
 - Maryam Ekhlasi, Polytechnique Montreal, Canada, maryam.ekhlasi@polymtl.ca
 
 
-### Technical Program Committee
-
-TBD
+### Technical Program Committee (accepted before Dec 11, 2025)
+- Alex Podelko, Amazon AWS, USA
+- Michele Tucci, University of L'Aquila, Italy
+- Shaiful Chowdhury, University of Manitoba, Canada
+- Klaus-Dieter Lange, Hewlett Packard Enterprise, USA
+- Jóakim von Kistowski, TH Aschaffenburg University of Applied Sciences, Germany
+- Vincenzo Stoico, Vrije Universiteit Amsterdam, Netherlands
+- Ruzanna Chitchyan, University of Bristol, UK
+- Silverio Martínez-Fernández, Universitat Politècnica de Catalunya, Spain
+- Cristina L. Abad, Escuela Superior Politécnica del Litoral, Ecuador
+- Max Weber, Leipzig University, Germany
+- Maximilian Meissner, University of Würzburg, Germany
