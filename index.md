@@ -50,8 +50,7 @@ If you use LaTeX, please use ``\documentclass[sigconf,screen,review,anonymous]{a
 ### Organizing Committee
 - Heng Li, Polytechnique Montréal, Canada, heng.li@polymtl.ca
 - Luca Traini, University of L’Aquila, Italy, luca.traini@univaq.it
-- Lizhi Liao, Memorial University of
-Newfoundland St. John’s, Canada lizhi.liao@mun.ca
+- Lizhi Liao, University of Guelph, Canada, lizhi.liao@uoguelph.ca
 - Andreas Brunnert, Munich University of Applied Sciences HM Munich, Germany, brunnert@hm.edu
 - Maryam Ekhlasi, Polytechnique Montreal, Canada, maryam.ekhlasi@polymtl.ca
 
