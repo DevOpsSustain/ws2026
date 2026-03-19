@@ -3,6 +3,19 @@
 ### Keynotes
 **Dr. Adel Noureddine**, University Paris Nanterre and LIP6 laboratory (Sorbonne University), France
 
+### Accepted papers
+Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology).
+**Can LLMs Make Software Testing Greener? An Empirical Study on JUnit Test Energy Reengineering**
+
+Sophie van der Linden (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology).
+**On the Energy Cost of Static Analysis Precision: An Empirical Study of SpotBugs Effort Levels**
+
+Máté Oszkó (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology).
+**The Energy Impact of Batch Testing in Continuous Integration: An Empirical Study of Static and Dynamic Batching Strategies**
+
+Pierre Jacquet (École de Technologie Supérieure)
+**[Extended Abstract Track] Reducing Cloud Impact is Teamwork: Enhancing User-Provider Collaboration through DevOps**
+
 ### Call for Paper
 Information and communication technologies (ICT) are causing ever-growing energy consumption and carbon emissions. Software is at the center of ICT, from large-scale data centers to personal devices. Thus, improving the energy efficiency of the software is critical for reducing the energy footprint of ICT and contributing to sustainable development. DevOps has become the main principle for developing and operating modern software systems, which aims to enhance the velocity of releasing high-quality software through automation and integrating development and operations responsibilities. On the one hand, the fast DevOps release cycles pose significant challenges for ensuring the energy efficiency of software and its deployment environment. On the other hand, DevOps provides great opportunities for enhancing software sustainability, since the integration between development and operations allows for continuous collection and analytics of energy consumption data, which can be leveraged as feedback for optimizing the energy efficiency of software and its deployment environment.
 
