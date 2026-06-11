@@ -2,12 +2,12 @@
 
 ### Program
 
-Date: Sunday, July 5 \| Venue: Concordia University (Downtown Montréal)
+**Date**: Sunday, July 5 \| **Venue**: Concordia University (Downtown Montréal)
 
 | Local Time      | Title |
 |----------------------|-------|
 | 9:00       | Opening: Organizers|
-| 9:10      | **Keynote** Dr. Adel Noureddine (University Paris Nanterre and LIP6 laboratory, Sorbonne University): _Title TBD_ |
+| 9:10      | **Keynote**: Dr. Adel Noureddine (University Paris Nanterre and LIP6 laboratory, Sorbonne University). _Title TBD_ |
 | 10:10      | Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology). _Can LLMs Make Software Testing Greener? An Empirical Study on JUnit Test Energy Reengineering_ |
 | 10:30      | Coffee Break ☕️ | 
 | 11:00       | Sophie van der Linden (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology). _On the Energy Cost of Static Analysis Precision: An Empirical Study of SpotBugs Effort Levels_ |
