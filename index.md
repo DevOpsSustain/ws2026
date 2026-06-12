@@ -18,7 +18,9 @@
 
 ### Keynotes
 **Dr. Adel Noureddine**, University Paris Nanterre and LIP6 laboratory (Sorbonne University), France
-<img src="https://github.com/DevOpsSustain/ws2026/blob/gh-pages/assets/noureddine.png?raw=true" alt="Dr. Adel Noureddine" width="300" height="300">
+<!--<img src="https://github.com/DevOpsSustain/ws2026/blob/gh-pages/assets/noureddine.png?raw=true" alt="Dr. Adel Noureddine" width="300" height="300">-->
+<img src="assets/noureddine.png" alt="Dr. Adel Noureddine" width="300" height="300">
+
 
 _Topic_: **Monitoring Energy Across Hardware, Software, and Humans**
 
