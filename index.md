@@ -7,7 +7,7 @@
 | Local Time      | Title |
 |----------------------|-------|
 | 9:00       | Opening: Organizers|
-| 9:10      | **Keynote**: Dr. Adel Noureddine (University Paris Nanterre and LIP6 laboratory, Sorbonne University). _Title TBD_ |
+| 9:10      | **Keynote**: Dr. Adel Noureddine (University Paris Nanterre and LIP6 laboratory, Sorbonne University). _Monitoring Energy Across Hardware, Software, and Humans_ |
 | 10:10      | Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology). _Can LLMs Make Software Testing Greener? An Empirical Study on JUnit Test Energy Reengineering_ |
 | 10:30      | Coffee Break ☕️ | 
 | 11:00       | Sophie van der Linden (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology). _On the Energy Cost of Static Analysis Precision: An Empirical Study of SpotBugs Effort Levels_ |
@@ -18,6 +18,17 @@
 
 ### Keynotes
 **Dr. Adel Noureddine**, University Paris Nanterre and LIP6 laboratory (Sorbonne University), France
+<img src="https://github.com/DevOpsSustain/ws2026/blob/gh-pages/assets/Noureddine.png?raw=true" alt="Dr. Adel Noureddine" width="300" height="300">
+
+_Topic_: **Monitoring Energy Across Hardware, Software, and Humans**
+
+_Abstract_: 
+Software ecosystems span heterogeneous hardware devices and components, varying software stacks and configurations, and diverse human actors with different profiles and usage patterns.
+This talk aims to trigger discussion about what should be monitored and for whom.
+
+_Short bio_: 
+Prof. Adel Noureddine is a Full Professor of computer science at University Paris Nanterre, France. He holds a PhD in computer science from the University of Lille and Inria in 2014, and has worked in computer science in France and the UK, and in the private and public sector.
+His main research areas are around green IT and green software engineering, behavioral computer science, empirical software engineering, and autonomic computing. In particular, he is interested in the role of software and its generated data in energy-efficient, green, autonomous and smart adaptations in cyber-physical systems. 
 
 ### Accepted papers
 Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology).
