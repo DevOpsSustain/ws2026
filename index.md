@@ -3,7 +3,7 @@
 ### Program
 
 **Date**: Sunday, July 5, starting at 9 AM <br>
-**Venue**: MB 3.435, Concordia University, John Molson Building <br>
+**Venue**: MB 3.445, Concordia University, John Molson Building <br>
 **Remote participation**: [Zoom Link](https://polymtl-ca.zoom.us/j/82614124437?pwd=A5ww7s5WIbOeiBSGbhMRhT2vbaOM4h.1)
 
 | Local Time      | Title |
