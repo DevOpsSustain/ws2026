@@ -2,7 +2,8 @@
 
 ### Program
 
-**Date**: Sunday, July 5 \| **Venue**: Concordia University (Downtown Montréal)
+**Date**: Sunday, July 5, starting at 9 AM. <br>
+**Venue**: MB 3.435, Concordia University, John Molson Building
 
 | Local Time      | Title |
 |----------------------|-------|
