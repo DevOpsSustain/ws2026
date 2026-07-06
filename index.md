@@ -10,11 +10,11 @@
 |----------------------|-------|
 | 9:00       | Opening: Organizers|
 | 9:10      | **Keynote**: Dr. Adel Noureddine (University Paris Nanterre and LIP6 laboratory, Sorbonne University). _Monitoring Energy Across Hardware, Software, and Humans_ ([Slides](./assets/noureddine-devopssustain-2026.pdf))|
-| 10:10      | Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology). _Can LLMs Make Software Testing Greener? An Empirical Study on JUnit Test Energy Reengineering_ |
+| 10:10      | Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology). _Can LLMs Make Software Testing Greener? An Empirical Study on JUnit Test Energy Reengineering_ ([Slides](./assets/DevOpsSustain2026_LLMs_Green_Testing.pdf)) |
 | 10:30      | Coffee Break ☕️ | 
-| 11:00       |  Pierre Jacquet (École de Technologie Supérieure). _Reducing Cloud Impact is Teamwork: Enhancing User-Provider Collaboration through DevOps_ |
-| 11:20       | Sophie van der Linden (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology). _On the Energy Cost of Static Analysis Precision: An Empirical Study of SpotBugs Effort Levels_ |
-| 11:40         | Máté Oszkó (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology). _The Energy Impact of Batch Testing in Continuous Integration: An Empirical Study of Static and Dynamic Batching Strategies_ |
+| 11:00       |  Pierre Jacquet (École de Technologie Supérieure). _Reducing Cloud Impact is Teamwork: Enhancing User-Provider Collaboration through DevOps_ ([Slides](./assets/Pierre_Jacquet_2607_DevOpsSustain.pdf)) |
+| 11:20       | Sophie van der Linden (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology). _On the Energy Cost of Static Analysis Precision: An Empirical Study of SpotBugs Effort Levels_ ([Slides](./assets/DevOpsSustain2026_SpotBugs.pdf))|
+| 11:40         | Máté Oszkó (Delft University of Technology), Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology), Carolin Brandt (Delft University of Technology). _The Energy Impact of Batch Testing in Continuous Integration: An Empirical Study of Static and Dynamic Batching Strategies_ ([Slides](./assets/DevOpsSustain2026_batch_testing.pdf)) |
 | 12:00         | Extended discussions|
 | 12:30         | Closing|
 
