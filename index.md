@@ -9,7 +9,7 @@
 | Local Time      | Title |
 |----------------------|-------|
 | 9:00       | Opening: Organizers|
-| 9:10      | **Keynote**: Dr. Adel Noureddine (University Paris Nanterre and LIP6 laboratory, Sorbonne University). _Monitoring Energy Across Hardware, Software, and Humans_ |
+| 9:10      | **Keynote**: Dr. Adel Noureddine (University Paris Nanterre and LIP6 laboratory, Sorbonne University). _Monitoring Energy Across Hardware, Software, and Humans_ ([Slides](./assets/noureddine-devopssustain-2026.pdf))|
 | 10:10      | Xutong Liu (Delft University of Technology), Andy Zaidman (Delft University of Technology). _Can LLMs Make Software Testing Greener? An Empirical Study on JUnit Test Energy Reengineering_ |
 | 10:30      | Coffee Break ☕️ | 
 | 11:00       |  Pierre Jacquet (École de Technologie Supérieure). _Reducing Cloud Impact is Teamwork: Enhancing User-Provider Collaboration through DevOps_ |
